@@ -39,14 +39,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   
-<!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsCW7l2-gdhxyZnQnVqVS4TLbjpDjPhJPW2XFuzg&s" title="Python"  alt="Python" width="40" height="40"/>&nbsp; -->
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<!-- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; -->
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="CSS"  alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<!-- <!-- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
 <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZKBeLD-amB8UiFFimhIjkuRyLMeCsDnS-w&usqp=CAU" title="C"  alt="C" width="40" height="40"/>&nbsp;
 
